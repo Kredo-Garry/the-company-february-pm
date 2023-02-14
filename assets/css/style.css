@@ -1,0 +1,8 @@
+.dashboard-icon{
+    font-size: 3em;
+}
+.dashboard-photo{
+    width: 3.5em;
+    height: 3.5em;
+    object-fit: cover;
+}
